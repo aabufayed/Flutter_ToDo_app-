@@ -2,5 +2,3 @@
 * text=auto
 
 *.dart linguist-language=Dart
-*.cpp linguist-language=C++
-*.h linguist-language=C++
